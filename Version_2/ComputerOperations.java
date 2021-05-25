@@ -27,7 +27,7 @@ public class ComputerOperations
         	}
         }
         /*System.out.println("Computer calculated all possible moves\n"
-        +MoveNo+" to be precise");
+        +MoveNo+" moves to be precise");
         */
         return bestMove;
 	}
