@@ -26,8 +26,9 @@ public class ComputerOperations
         		}
         	}
         }
-        System.out.println("Computer calculated all possible moves\n"
+        /*System.out.println("Computer calculated all possible moves\n"
         +MoveNo+" to be precise");
+        */
         return bestMove;
 	}
 	int MiniMax(String[] board, String turn) 
